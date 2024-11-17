@@ -1,0 +1,20 @@
+B001,The Little Prince,Antoine de Saint-Exupéry,Fiction,checked in,null
+B002,Dune,Frank Herbert,Science Fiction,checked out,2024-12-01
+B004,1984,George Orwell,Dystopian,checked in,null
+B005,The Great Gatsby,F. Scott Fitzgerald,Fiction,checked out,2024-12-05
+B006,The Catcher in the Rye,J.D. Salinger,Fiction,checked in,null
+B007,Moby Dick,Herman Melville,Adventure,checked in,null
+B008,The Hobbit,J.R.R. Tolkien,Fantasy,checked out,2024-12-10
+B009,Pride and Prejudice,Jane Austen,Romance,checked in,null
+B010,War and Peace,Leo Tolstoy,Historical,checked out,2024-12-12
+B011,The Art of War,Sun Tzu,Non-Fiction,checked in,null
+B012,The Road,Cormac McCarthy,Post-Apocalyptic,checked in,null
+B013,Brave New World,Aldous Huxley,Dystopian,checked in,null
+B014,Crime and Punishment,Fyodor Dostoevsky,Crime,checked in,null
+B015,Jane Eyre,Charlotte Brontë,Fiction,checked out,2024-12-15
+B016,Wuthering Heights,Emily Brontë,Romance,checked in,null
+B017,The Divine Comedy,Dante Alighieri,Poetry,checked in,null
+B018,The Iliad,Homer,Classics,checked in,null
+B019,Frankenstein,Mary Shelley,Horror,checked in,null
+B020,Dracula,Bram Stoker,Horror,checked out,2024-12-20
+B003,To Kill a Mockingbird,Harper Lee,Fiction,checked in,null
